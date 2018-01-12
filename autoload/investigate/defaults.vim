@@ -44,6 +44,7 @@ let s:defaultLocations = {
 \ }
 
 let s:syntaxAliases = {
+  \ "javascriptjsx": "javascript",
   \ "bash": "sh",
   \ "help": "vim",
   \ "less": "css",
